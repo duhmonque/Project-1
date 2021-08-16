@@ -10,7 +10,9 @@ Branch Niki Sinclair- Data Cleaning, Case Studies, Statistical Analysis
 Both - Charts
 
 Main branch:
+
 Jupiter Notebook of Entire Project = Project 1 - Final.ipynb
+
 The presentation slides of Project = Project 1 - Application Pending.pdf
 
 
