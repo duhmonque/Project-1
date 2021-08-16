@@ -3,17 +3,19 @@ Github class project
 
 References: 
 
-Branch DominiqueVillasenor - Importing, Data Cleaning, Charts
+1. Main branch:
 
-Branch Niki Sinclair- Data Cleaning, Case Studies, Statistical Analysis
+--> Jupiter Notebook of Entire Project = Project 1 - Final.ipynb
 
-Both - Charts
+--> The presentation slides of Project = Project 1 - Application Pending.pdf
 
-Main branch:
+2. Branch DominiqueVillasenor - Importing, Data Cleaning, Charts
 
-Jupiter Notebook of Entire Project = Project 1 - Final.ipynb
 
-The presentation slides of Project = Project 1 - Application Pending.pdf
+3. Branch Niki Sinclair- Data Cleaning, Case Studies, Statistical Analysis
+
+We Both did the Charts
+
 
 
 
